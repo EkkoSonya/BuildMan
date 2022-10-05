@@ -33,7 +33,7 @@ export default {
     props: {},
     methods: {
         goToHome() {
-            this
+            this.$router.push('/home')
         }
     }
 };
