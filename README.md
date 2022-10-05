@@ -1,24 +1,8 @@
-# buildman
+# build-man
 
-## Project setup
-```
-npm install
-```
+## introduction
+The platform allows to download,distribute,store packages and upgrade site automatically
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## start
+1.npm install
+2.npm run serve(npm run build)
